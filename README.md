@@ -18,6 +18,7 @@
 4. ハイパーリンクの作成
 5. [上級のテキスト整形](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 6. [ドキュメントとWebサイトの構造](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+7. HTMLのデバッグ
 
 ## 3. CSS入門
 
