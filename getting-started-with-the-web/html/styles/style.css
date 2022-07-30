@@ -12,7 +12,7 @@ h2 {
     font-size: 40px;
 }
 
-p, li {
+p, li, dd, dt, dl {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
@@ -40,4 +40,9 @@ h1 {
 img {
     display: block;
     margin: 0 auto;
+}
+
+dt {
+    font-size: 20px;
+    font-weight: bold;
 }
