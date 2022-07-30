@@ -12,6 +12,7 @@
 5. Webの仕組み
 
 ## 2. [HTML入門](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML)
+### 2.1 [HTML概論](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML)
 1. [HTMLをはじめよう](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 2. [head - metadata](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 3. HTMLtextの基礎
@@ -19,6 +20,9 @@
 5. [上級のテキスト整形](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 6. [ドキュメントとWebサイトの構造](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 7. HTMLのデバッグ
+
+### 2.2 [マルチメディアとその埋め込み方](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding)
+1. [htmlの画像](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 ## 3. CSS入門
 
