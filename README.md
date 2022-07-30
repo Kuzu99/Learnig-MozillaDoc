@@ -23,6 +23,7 @@
 
 ### 2.2 [マルチメディアとその埋め込み方](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding)
 1. [htmlの画像](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+2. [動画と音声](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 ## 3. CSS入門
 
