@@ -11,7 +11,8 @@
 4. WebSiteの公開
 5. Webの仕組み
 
-## 2. HTML入門
+## 2. [HTML入門](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML)
+- 2.1 [HTMLをはじめよう](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ## 3. CSS入門
 
