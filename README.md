@@ -13,7 +13,7 @@
 
 ## 2. [HTML入門](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML)
 - 2.1 [HTMLをはじめよう](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-
+- 2.2 [head - metadata](https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 ## 3. CSS入門
 
 ## 4. JavaScripts入門
